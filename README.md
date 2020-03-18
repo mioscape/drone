@@ -1,4 +1,7 @@
-# MLBB Drone In-Game by Mioscape
-v2.0 Release with feature:
-- Work in All Maps.
-- Less Lag
+# MLBB Drone In-Game
+v3.0-stable Release with feature:
+- Fix Folder Placement
+- Changed Value
+- Added New Map Support
+
+## // By Mioscape
