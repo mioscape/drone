@@ -1,7 +1,7 @@
 # MLBB Drone In-Game
-v3.0-stable Release with feature:
-- Fix Folder Placement
-- Changed Value
+v4.0-stable Changelogs:
 - Added New Map Support
+- Bump to v4.0-stable
+- Value Changes
 
 ## // By Mioscape
